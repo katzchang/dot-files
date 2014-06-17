@@ -1,6 +1,6 @@
 [user]
 	name = katzchang
-	email = kazunori_ohtani+github.voyagegroup@voyagegroup.com
+	email = katzchang@gmail.com
 [core]
     excludesfile = ~/.gitignore
     pager = less -r
