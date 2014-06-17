@@ -2,7 +2,7 @@
 	name = katzchang
 	email = katzchang@gmail.com
 [core]
-    excludesfile = ~/.gitignore
+    excludesfile = ~/.gitignore_global
     pager = less -r
     editor = vi
 [color]
