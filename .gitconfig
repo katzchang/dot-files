@@ -5,6 +5,7 @@
     excludesfile = ~/.gitignore_global
     pager = less -r
     editor = vi
+	quotepath = false
 [color]
     ui = auto   
 [push]
@@ -32,3 +33,5 @@
     s = status --short --branch
     st = status 
     su = submodule update
+[gui]
+	encoding = utf-8
